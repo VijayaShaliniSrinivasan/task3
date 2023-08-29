@@ -1,0 +1,49 @@
+.carousel-item{
+  height: 100vh;
+  min-height:350px;
+
+}
+.container-fluid {
+  border-radius:1px;
+  background-color:beige;
+  color: whitesmoke;
+  
+} 
+.container-fluid  a {
+  color: black;
+}
+
+.Features-img{
+  width: 200px;
+  height: 100px;
+  padding-top: 130px;
+  padding-left: 100px;
+}
+.card-img-top{
+  border-radius: 20px;
+  padding: 6px;
+
+}
+.card{
+  border-radius: 15px;
+  box-shadow: #0b83ce;
+
+}
+.navbar-nav:hover{
+  
+  color: azure;
+}
+.container-fluid  a :hover{
+  color: beige;
+}
+.btn-warning:hover{
+  background-color: rgb(13, 173, 51);
+  color:hsl(120, 14%, 99%)
+  
+}
+.btn-primary{
+  background-color: rgb(5, 140, 12);
+}
+.text{
+  padding-left: 385px;
+}
